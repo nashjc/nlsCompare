@@ -8,3 +8,6 @@ nlsj::nlsj,marquardt,nlsj::nlsj.control()
 nlsr::nlxb,NULL,"list(phi=0.5,offset=99)"
 nlsr::nlxb,NULL,NULL
 nls,default,nls.control()
+nlsr22,NULL,"list(phi=1, psi=1)"
+nlsr22,NULL,"list(phi=0, psi=1)"
+nlsr22,NULL,"list(phi=1, psi=0, stepredn=0.5)"
