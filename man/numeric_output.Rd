@@ -4,7 +4,7 @@
 Get numeric output only
 }
 \description{
-This function strips of strips off the non-numeric part of a string that contains ": " in it.
+This function strips off the non-numeric part of a string that contains ": " in it.
 }
 \usage{
 numeric_output(str)
